@@ -16,7 +16,7 @@
 - 💻 Estudante de Ciência da Computação / FUMEC
 - 🌱 Atualmente estou aprendendo Python e JavaScript
 - 👯 Procuro colaborar em projetos de Código Aberto para Iniciantes
-- 📫 Como me encontrar: <a href="mailto:fel.cardoso@outlook.com">fel.cardoso@outlook.com</a>
+- 📫 Como me encontrar: <a href="mailto:pcardoso.felipe@gmail.com">fel.cardoso@outlook.com</a>
 
 #### 🛠️ Tecnologias & Ferramentas
 
