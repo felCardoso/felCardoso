@@ -27,18 +27,18 @@
 </p>
 
 #### 🌟 Featured Projects
-- [Terminal RPG](https://github.com/felCardoso/terminal-rpg) - An RPG game using the Terminal (WIP)
-- [Leilao](https://github.com/felCardoso/leilao) - A card game with auctions and bluff (WIP)
-- [StockManager](https://github.com/felCardoso/stockmanager) - An Inventory Manager for small business
+- [Terminal RPG](https://github.com/felCardoso/TerminalRPG) - An RPG game using pure Python in Terminal
+- [BidMaster](https://github.com/felCardoso/BidMaster) - A card game with auctions and bluff
+- [LexManager](https://github.com/felCardoso/LexManager) - A Customer Relationshio Manager for lawyers
 
 #### 📫 Social Media
 <p display="inline" align="left">
   <a href="https://www.linkedin.com/in/felip-cardoso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!--<a href="https://www.discordapp.com/users/" target="_blank">
+  <a href="https://www.discordapp.com/users/357288925448110081" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" />
-  </a> -->
+  </a>
   
   <!-- Add more social media badges as needed -->
 </p>
