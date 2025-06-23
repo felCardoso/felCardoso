@@ -29,7 +29,8 @@
 #### 🌟 Featured Projects
 - [Terminal RPG](https://github.com/felCardoso/TerminalRPG) - An RPG game using pure Python in Terminal
 - [BidMaster](https://github.com/felCardoso/BidMaster) - A card game with auctions and bluff
-- [LexManager](https://github.com/felCardoso/LexManager) - A Customer Relationshio Manager for lawyers
+- [TODOList](https://github.com/felCardoso/TODOList) - A simple TODO List site
+- [LexManager](https://github.com/felCardoso/LexManager) - A Customer Relationship Manager for lawyers
 
 #### 📫 Social Media
 <p display="inline" align="left">
@@ -43,7 +44,7 @@
   <!-- Add more social media badges as needed -->
 </p>
 <p align="center">
-  <i>Last updated: 2025-01-17</i>
+  <i>Last updated: 2025-06-23</i>
 </p>
 </details>
 
