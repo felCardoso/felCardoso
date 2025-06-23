@@ -12,7 +12,7 @@
 - 💻 Computer Science Student / FUMEC
 - 🌱 I'm currently learning Python and JavaScript
 - 👯 I'm looking to collaborate on Beginner-Friendly Open Source projects
-- 📫 How to reach me: <a href="mailto:fel.cardoso@outlook.com">fel.cardoso@outlook.com</a>
+- 📫 How to reach me: <a href="mailto:pcardoso.felipe@gmail.com">pcardoso.felipe@gmail.com</a>
 
 #### 🛠️ Technologies & Tools
 <p align="left">
