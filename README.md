@@ -21,15 +21,15 @@
   <!-- Add more technology badges -->
 </p>
 
-#### 📊 GitHub Stats
+<!-- #### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=felCardoso&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</p> -->
 
 #### 🌟 Featured Projects
 - [Terminal RPG](https://github.com/felCardoso/TerminalRPG) - An RPG game using pure Python in Terminal
 - [BidMaster](https://github.com/felCardoso/BidMaster) - A card game with auctions and bluff
-- [TODOList](https://github.com/felCardoso/TODOList) - A simple TODO List site
+- [TODOList](https://github.com/felCardoso/HighDice) - A poker-like dice game
 - [LexManager](https://github.com/felCardoso/LexManager) - A Customer Relationship Manager for lawyers
 
 #### 📫 Social Media
