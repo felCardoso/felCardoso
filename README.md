@@ -27,10 +27,11 @@
 </p> -->
 
 #### 🌟 Featured Projects
-- [Terminal RPG](https://github.com/felCardoso/TerminalRPG) - An RPG game using pure Python in Terminal
+- [Connect 4](https://github.com/felCardoso/connect4) - A strategy connect 4 dots game, against AI or Online Multiplayer
+- [Cuttle](https://github.com/felCardoso/cuttle) - An PvP strategy card game, featuring only Online Multiplayer mode
 - [BidMaster](https://github.com/felCardoso/BidMaster) - A card game with auctions and bluff
+- [Terminal RPG](https://github.com/felCardoso/TerminalRPG) - A simple RPG game using pure Python in Terminal
 - [HighDice](https://github.com/felCardoso/HighDice) - A poker-like dice game
-- [LexManager](https://github.com/felCardoso/cuttle) - Cuttle, online PvP strategy card game
 
 #### 📫 Social Media
 <p display="inline" align="left">
