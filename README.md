@@ -30,7 +30,7 @@
 - [Terminal RPG](https://github.com/felCardoso/TerminalRPG) - An RPG game using pure Python in Terminal
 - [BidMaster](https://github.com/felCardoso/BidMaster) - A card game with auctions and bluff
 - [HighDice](https://github.com/felCardoso/HighDice) - A poker-like dice game
-- [LexManager](https://github.com/felCardoso/LexManager) - A Customer Relationship Manager for lawyers
+- [LexManager](https://github.com/felCardoso/cuttle) - Cuttle, online PvP strategy card game
 
 #### 📫 Social Media
 <p display="inline" align="left">
